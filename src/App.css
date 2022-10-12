@@ -1,0 +1,22 @@
+.User_Label_Section {
+  display: flex;
+  justify-content: center;
+}
+.form-border{
+  border: 1px solid rgb(214, 213, 213);
+  padding: 40px;
+}
+.fs-5{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(100, 83, 117);
+}
+.button-sub{
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  margin-left: 20%;
+  margin-top: 10%;
+}
+.div.input-wrapper{
+border: "1px solid black"
+}
